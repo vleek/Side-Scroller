@@ -26,10 +26,10 @@ public class movement : MonoBehaviour
         {
             Jump = true;
         }
-        if (Input.GetKeyDown("Crouch"))
+        if (Input.GetKeyDown("s"))
         {
             Crouch = true;
-        } else if(Input.GetButtonUp("Crouch"))
+        } else if(Input.GetButtonUp("s"))
         {
             Crouch = false;
         }
