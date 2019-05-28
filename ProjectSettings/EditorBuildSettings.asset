@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ffbd703e02548dd44a2027f0b7283897
+  - enabled: 1
+    path: Assets/Scenes/Dikke.unity
+    guid: e4839618213d5994a825ef45655bd2bc
   m_configObjects: {}
